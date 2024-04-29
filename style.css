@@ -1,0 +1,20 @@
+body{ width: 800px;
+    background: #ad9a0b;
+}
+table{ 
+    width: 700px;
+
+    background: #0be637;
+}
+img{
+    background: #1b023c;
+}
+img :hover{
+    color: burlywood;
+}
+input{
+    background: #39b2d6;
+}
+textarea{
+    background: #d7d971;
+}
